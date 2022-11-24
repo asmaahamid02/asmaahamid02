@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmaa Hamid</h1>
-<h3 align="center">A NERD Web Developer</h3>
+<h3 align="center">A NERD 🤓 Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/selfportrait.gif"/>
 
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Vuejs**
 
-- 📫 How to reach me **asmaahamid002@gmail.com**
+- 📫 Reach me by dialing 002 😜 **asmaahamid002@gmail.com**
 
-- ⚡ **I am in love with INDOMIE**
+- ⚡ **I am in love with INDOMIE** 😋 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
