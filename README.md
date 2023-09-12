@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmaahamid02&label=Profile%20views&color=0e75b6&style=flat" alt="asmaahamid02" /> </p>
 
-- 🌱 I’m currently learning **Vuejs**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 Reach me by dialing 002 😜 **asmaahamid002@gmail.com**
 
